@@ -1,2 +1,0 @@
-# -
-paddlehub ocr实践
